@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ]
+  ],
+  "legacy_uid": "b488f180-a1af-8ccc-6e6f-f1d20254e9de",
+  "instructors": {
+    "content": [
+      "c010ab86-ace6-3792-07c9-ce6c8e62e38f",
+      "0fb19bce-9520-8355-d51a-1d5087eb5391"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0bf37a20-bbd6-4505-8f6c-6958eee90610",
+    "website": "6-00-introduction-to-computer-science-and-programming-fall-2008"
+  },
+  "course_title": "Introduction to Computer Science and Programming",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "6.00 Intro to CS and Programming has been retired from OCW.\u00a0You can access the archived course on {{% resource_link \"ecaeb248-fdb6-439d-8750-21c1c25104e8\" \"DSpace \u2013 MIT\u2019s digital repository\" %}}. Please see the list of\u00a0{{% resource_link \"25adc482-a1f9-4cf2-b666-b280de8a240e\" \"introductory programming courses\" %}} and other programming courses from recent years.",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.00",
+  "course_image_thumbnail": {
+    "content": "53e629d5-aa55-8a1b-8caf-7458df3287bd",
+    "website": "6-00-introduction-to-computer-science-and-programming-fall-2008"
+  },
+  "learning_resource_types": [],
+  "site_uid": "9104dfe5-6b1f-416e-a877-e9ac76c66537",
+  "site_short_id": "6.00-fall-2008",
+  "site_url_path": "courses/6-00-introduction-to-computer-science-and-programming-fall-2008",
+  "title": "Course Metadata"
+}

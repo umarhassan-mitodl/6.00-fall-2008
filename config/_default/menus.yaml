@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 25adc482-a1f9-4cf2-b666-b280de8a240e
+  name: Introductory Programming Courses
+  pageRef: /external-resources/introductory-programming-courses_25adc482-a1f9-4cf2-b666-b280de8a240e
+  weight: 10
+- identifier: ecaeb248-fdb6-439d-8750-21c1c25104e8
+  name: Archived DSpace Course
+  pageRef: /external-resources/archived-d-space-course_ecaeb248-fdb6-439d-8750-21c1c25104e8
+  weight: 20
